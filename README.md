@@ -5,22 +5,22 @@
 📍 Enter location (e.g., Kinsale,IE): Bergen,NL
 [INFO] Location chosen: Bergen,NL
 [INFO] Fetching coordinates via Geocoding API...
-[DEBUG] Trying OpenWeather API key: 5f7315f3... (attempt 1)
+[DEBUG] Trying OpenWeather API key: 12345678... (attempt 1)
 [INFO] Fetching GEOCODING API URL
 [INFO] Coordinates found: lat=52.6702278, lon=4.7011616
 [INFO] Fetching basic weather data from OpenWeatherMap...
-[DEBUG] Using OpenWeather key: 2e62f78c... (attempt 1)
+[DEBUG] Using OpenWeather key: 12345678... (attempt 1)
 [INFO] Fetching OPENWEATHERMAP WEATHER URL
 [INFO] Basic weather data received.
 [INFO] Fetching marine weather data from Open-Meteo...
 [INFO] Fetching OPEN-METEO MARINE API URL
 [INFO] Marine weather data received.
 [INFO] Fetching moon phase and fishing conditions...
-[DEBUG] Using WeatherAPI key: 4e5397e7... (attempt 1)
+[DEBUG] Using WeatherAPI key: 12345678... (attempt 1)
 [INFO] Fetching WEATHERAPI ASTRONOMY URL
 [INFO] Fishing behavior data received.
 [INFO] Fetching tide data from StormGlass...
-[DEBUG] Using StormGlass key: 72491c7a... (attempt 1)
+[DEBUG] Using StormGlass key: 12345678... (attempt 1)
 
 🌤️  Weather Report
 ----------------------------------------
