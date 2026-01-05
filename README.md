@@ -1,5 +1,6 @@
 # Kayak-Fish-Forecast-Tool
 
+
 🌍 Welcome to Kayak & Fish Forecast Tool!
 📍 Enter location (e.g., Kinsale,IE): Bergen,NL
 [INFO] Location chosen: Bergen,NL
